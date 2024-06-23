@@ -1,2 +1,2 @@
-# Power-bi-Projects
+# Data analyst Projects
 Health Care Analytics 
